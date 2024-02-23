@@ -1,0 +1,1 @@
+# theoretical-and-practical-it-aspects-of-algorithmic-trading
