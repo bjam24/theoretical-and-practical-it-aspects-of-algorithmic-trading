@@ -16,8 +16,8 @@ The result of the work below is an unambiguous description of the Algorithmic Tr
 </p>
 #### Bollinger Bands
 <p float="left">
-<img src="bollinger_bands.jpg" width="400"/>
-<img src="bollinger_bands_backtest.jpg" width="400"/>
+<img src="images/bollinger_bands.jpg" width="400"/>
+<img src="images/bollinger_bands_backtest.jpg" width="400"/>
 </p>
 #### Cross Market Arbitrage
 <p float="left">
