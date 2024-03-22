@@ -21,7 +21,9 @@ The result of the work below is an unambiguous description of the Algorithmic Tr
 <img src="images/bollinger_bands.jpg" width="400"/>
 <img src="images/bollinger_bands_backtest.jpg" width="400"/>
 </p>
+
 #### Cross Market Arbitrage
+
 <p float="left">
 <img src="images/cross_market_arbitrage.jpg" width="400"/>
 <img src="images/cross_market_arbitrage_backtest.jpg" width="400"/>
