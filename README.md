@@ -9,5 +9,7 @@ The practical part presents three groups of strategies responsible for generatin
 The result of the work below is an unambiguous description of the Algorithmic Trading tools which are the transaction system and the trading strategies implemented in it. The biggest challenge in achieving the chosen goal was the analysis of English-language sources presenting different views on this field.
 
 ## Implemented trading strategies
+
+### Exponentially weighted moving average with crossover
 ### Bollinger bands
-$$$ 
+### 
