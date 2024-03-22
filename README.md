@@ -10,8 +10,17 @@ The result of the work below is an unambiguous description of the Algorithmic Tr
 
 ## Implemented trading strategies
 #### Exponentially Weighted Moving Average Crossover
-
+<p float="left">
+<img src="images/dif_log_simp_return.jpg" width="400"/>
+<img src="images/dist_of_returns.jpg" width="400"/>
+</p>
 #### Bollinger Bands
-
+<p float="left">
+<img src="images/dif_log_simp_return.jpg" width="400"/>
+<img src="images/dist_of_returns.jpg" width="400"/>
+</p>
 #### Cross Market Arbitrage
-
+<p float="left">
+<img src="images/dif_log_simp_return.jpg" width="400"/>
+<img src="images/dist_of_returns.jpg" width="400"/>
+</p>
