@@ -10,6 +10,6 @@ The result of the work below is an unambiguous description of the Algorithmic Tr
 
 ## Implemented trading strategies
 
-### Exponentially Weighted Moving Average Crossover
-### Bollinger Bands
-### Cross Market Arbitrage
+#### Exponentially Weighted Moving Average Crossover
+#### Bollinger Bands
+#### Cross Market Arbitrage
