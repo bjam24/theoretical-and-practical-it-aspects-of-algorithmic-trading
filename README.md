@@ -14,7 +14,9 @@ The result of the work below is an unambiguous description of the Algorithmic Tr
 <img src="images/ewma_crossover.jpg" width="400"/>
 <img src="images/ewma_crossover_backtest.jpg" width="400"/>
 </p>
+
 #### Bollinger Bands
+
 <p float="left">
 <img src="images/bollinger_bands.jpg" width="400"/>
 <img src="images/bollinger_bands_backtest.jpg" width="400"/>
